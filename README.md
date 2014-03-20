@@ -1,4 +1,0 @@
-wakandaWidgets
-==============
-Wakanda custom widgets.
-
